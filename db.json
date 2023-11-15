@@ -98,5 +98,31 @@
     "desc":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa deserunt mollit anim id est laborum."
   }
 ],
+"features":[
+  {"id":1,
+  "image":"/assets/images/product1.webp",
+  "name":"Beef",
+  "type":"Big Burger",
+  "weight":345,
+  "tatse":"spicy",
+  "price":15,
+  "desc":"Quisque nec libero ut sapien dictum commodo. Nam ac felis id libero rutrum pharetra eu non lacus"},
+  {"id":2,
+  "image":"/assets/images/product2.webp",
+  "name":"Chicken",
+  "type":"Burger",
+  "weight":180,
+  "tatse":"spicy",
+  "price":12,
+  "desc":"Quisque nec libero ut sapien dictum commodo. Nam ac felis id libero rutrum pharetra eu non lacus"},
+  {"id":3,
+  "image":"/assets/images/product3.webp",
+  "name":"Classic",
+  "type":"Burger",
+  "weight":345,
+  "tatse":"spicy",
+  "price":9,
+  "desc":"Quisque nec libero ut sapien dictum commodo. Nam ac felis id libero rutrum pharetra eu non lacus"}
+],
 "orders": []
 }
