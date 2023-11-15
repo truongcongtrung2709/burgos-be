@@ -104,7 +104,7 @@
   "name":"Beef",
   "type":"Big Burger",
   "weight":345,
-  "tatse":"spicy",
+  "taste":"spicy",
   "price":15,
   "desc":"Quisque nec libero ut sapien dictum commodo. Nam ac felis id libero rutrum pharetra eu non lacus"},
   {"id":2,
