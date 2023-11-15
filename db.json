@@ -112,7 +112,7 @@
   "name":"Chicken",
   "type":"Burger",
   "weight":180,
-  "tatse":"spicy",
+  "taste":"spicy",
   "price":12,
   "desc":"Quisque nec libero ut sapien dictum commodo. Nam ac felis id libero rutrum pharetra eu non lacus"},
   {"id":3,
@@ -120,7 +120,7 @@
   "name":"Classic",
   "type":"Burger",
   "weight":345,
-  "tatse":"spicy",
+  "taste":"spicy",
   "price":9,
   "desc":"Quisque nec libero ut sapien dictum commodo. Nam ac felis id libero rutrum pharetra eu non lacus"}
 ],
