@@ -55,7 +55,7 @@
    "ingredients": "Duis vitae justo tempor, vulputate libero sit amet, lacinia nulla. Fusce eu turpis quis",
    "rating": 5,
    "review":[{"name":"admin","email":"admin@gmail.com","rating":0,"comment":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."}],
-   "date": "27/09/1996"
+   "date": "27/09/2023"
   },
   {
     "id":2,
@@ -69,7 +69,7 @@
     "ingredients": "Duis vitae justo tempor, vulputate libero sit amet, lacinia nulla. Fusce eu turpis quis",
     "rating": 5,
     "review":[{"name":"admin","email":"admin@gmail.com","rating":0,"comment":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."}],
-    "date": "27/09/1996"
+    "date": "27/09/2023"
    },
    {
     "id":3,
@@ -83,7 +83,7 @@
     "ingredients": "Duis vitae justo tempor, vulputate libero sit amet, lacinia nulla. Fusce eu turpis quis",
     "rating": 5,
     "review":[{"name":"admin","email":"admin@gmail.com","rating":0,"comment":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."}],
-    "date": "27/09/1996"
+    "date": "27/09/2023"
    },
    {
     "id":4,
@@ -97,7 +97,7 @@
     "ingredients": "Duis vitae justo tempor, vulputate libero sit amet, lacinia nulla. Fusce eu turpis quis",
     "rating": 5,
     "review":[{"name":"admin","email":"admin@gmail.com","rating":0,"comment":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."}],
-    "date": "27/09/1996"
+    "date": "27/09/2023"
    },
    {
     "id":5,
@@ -111,7 +111,7 @@
     "ingredients": "Duis vitae justo tempor, vulputate libero sit amet, lacinia nulla. Fusce eu turpis quis",
     "rating": 5,
     "review":[{"name":"admin","email":"admin@gmail.com","rating":0,"comment":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."}],
-    "date": "27/09/1996"
+    "date": "27/09/2023"
    },
    {
     "id":6,
@@ -125,7 +125,7 @@
     "ingredients": "Duis vitae justo tempor, vulputate libero sit amet, lacinia nulla. Fusce eu turpis quis",
     "rating": 5,
     "review":[{"name":"admin","email":"admin@gmail.com","rating":0,"comment":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."}],
-    "date": "27/09/1996"
+    "date": "27/09/2023"
   }
 ],
 "features":[
