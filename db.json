@@ -54,8 +54,8 @@
    "weight": 345,
    "ingredients": "Duis vitae justo tempor, vulputate libero sit amet, lacinia nulla. Fusce eu turpis quis",
    "rating": 1,
-   "review":[{"name":"admin","email":"admin@gmail.com","rating":3.5,"comment":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."}],
-   "date": "27/09/2023"
+   "review":[{"name":"admin","email":"admin@gmail.com","rating":3.5,"comment":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.","date": "20/11/2023"}]
+   
   },
   {
     "id":2,
@@ -68,8 +68,8 @@
     "weight": 345,
     "ingredients": "Duis vitae justo tempor, vulputate libero sit amet, lacinia nulla. Fusce eu turpis quis",
     "rating": 1,
-    "review":[{"name":"admin","email":"admin@gmail.com","rating":3.5,"comment":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."}],
-    "date": "27/09/2023"
+    "review":[{"name":"admin","email":"admin@gmail.com","rating":3.5,"comment":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.","date": "20/11/2023"}]
+    
    },
    {
     "id":3,
@@ -82,8 +82,8 @@
     "weight": 345,
     "ingredients": "Duis vitae justo tempor, vulputate libero sit amet, lacinia nulla. Fusce eu turpis quis",
     "rating": 1,
-    "review":[{"name":"admin","email":"admin@gmail.com","rating":3.5,"comment":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."}],
-    "date": "27/09/2023"
+    "review":[{"name":"admin","email":"admin@gmail.com","rating":3.5,"comment":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.","date": "20/11/2023"}]
+    
    },
    {
     "id":4,
@@ -96,8 +96,8 @@
     "weight": 345,
     "ingredients": "Duis vitae justo tempor, vulputate libero sit amet, lacinia nulla. Fusce eu turpis quis",
     "rating": 1,
-    "review":[{"name":"admin","email":"admin@gmail.com","rating":3.5,"comment":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."}],
-    "date": "27/09/2023"
+    "review":[{"name":"admin","email":"admin@gmail.com","rating":3.5,"comment":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.","date": "20/11/2023"}]
+    
    },
    {
     "id":5,
@@ -110,8 +110,8 @@
     "weight": 345,
     "ingredients": "Duis vitae justo tempor, vulputate libero sit amet, lacinia nulla. Fusce eu turpis quis",
     "rating": 1,
-    "review":[{"name":"admin","email":"admin@gmail.com","rating":3.5,"comment":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."}],
-    "date": "27/09/2023"
+    "review":[{"name":"admin","email":"admin@gmail.com","rating":3.5,"comment":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.","date": "20/11/2023"}]
+    
    },
    {
     "id":6,
@@ -124,8 +124,8 @@
     "weight": 345,
     "ingredients": "Duis vitae justo tempor, vulputate libero sit amet, lacinia nulla. Fusce eu turpis quis",
     "rating": 1,
-    "review":[{"name":"admin","email":"admin@gmail.com","rating":3.5,"comment":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor."}],
-    "date": "27/09/2023"
+    "review":[{"name":"admin","email":"admin@gmail.com","rating":3.5,"comment":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.","date": "20/11/2023"}]
+    
   }
 ],
 "features":[
