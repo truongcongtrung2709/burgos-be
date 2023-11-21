@@ -154,5 +154,13 @@
   "desc":"Quisque nec libero ut sapien dictum commodo. Nam ac felis id libero rutrum pharetra eu non lacus"}
 ],
 "orders": [],
-"reviews": []
+"reviews": [
+  {"name": "Trung", "email": "truongcongtrung2709@gmail.com", "date": "11/21/2023","comment":"So Yummy","productId":3,"rating":4},
+  {"name": "Quynh", "email": "Quynh@gmail.com", "date": "11/21/2023","comment":"So Yummy","productId":1,"rating":4},
+  {"name": "Tien", "email": "Tien@gmail.com", "date": "11/21/2023","comment":"So Yummy","productId":3,"rating":3},
+  {"name": "Hai", "email": "Hai@gmail.com", "date": "11/21/2023","comment":"Not good","productId":4,"rating":1},
+  {"name": "Quoc", "email": "Quoc@gmail.com", "date": "11/21/2023","comment":"So Yummy","productId":5,"rating":5},
+  {"name": "Bao", "email": "Bao@gmail.com", "date": "11/21/2023","comment":"So Yummy","productId":6,"rating":2},
+  {"name": "Trung", "email": "Trung@gmail.com", "date": "11/21/2023","comment":"So Yummy","productId":2,"rating":4}
+]
 }
